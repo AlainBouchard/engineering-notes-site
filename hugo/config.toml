@@ -1,6 +1,0 @@
-baseURL = "https://alainbouchard.github.io/"
-languageCode = "en-us"
-title = "Alain Bouchard's Engineering Notes"
-theme = "hugo-theme-learn"
-[params]
-   themeVariant = "blue"
