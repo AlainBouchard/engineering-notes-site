@@ -1,0 +1,16 @@
+baseURL = "https://AlainBouchard.gihub.io/"
+languageCode = "en-us"
+title = "Alain Bouchard's Engineering Notes"
+theme = "hugo-theme-relearn"
+
+[outputs]
+    home = [ "HTML", "RSS", "JSON"]
+
+[module]
+
+  [[module.imports]]
+    path = "github.com/alain-bouchard-quality/engineering-notes"
+
+    [[module.imports.mounts]]
+      source = "content"
+      target = "content"

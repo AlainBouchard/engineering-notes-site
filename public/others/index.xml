@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Alain Bouchard&#39;s Engineering Notes</title>
+    <link>https://AlainBouchard.gihub.io/others/</link>
+    <description>Recent content in Notes on Alain Bouchard&#39;s Engineering Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://AlainBouchard.gihub.io/others/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patate Notes 1</title>
+      <link>https://AlainBouchard.gihub.io/others/patate1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://AlainBouchard.gihub.io/others/patate1/</guid>
+      <description>Yep 1 </description>
+    </item>
+    <item>
+      <title>Patate Notes 2</title>
+      <link>https://AlainBouchard.gihub.io/others/patate2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://AlainBouchard.gihub.io/others/patate2/</guid>
+      <description>Yep 2 </description>
+    </item>
+  </channel>
+</rss>
