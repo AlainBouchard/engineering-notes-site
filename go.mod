@@ -1,7 +1,9 @@
 module engineering-notes-site
 
-<!-- replace github.com/alain-bouchard-quality/engineering-notes => c:\src\engineering-notes -->
+// replace github.com/AlainBouchard/engineering-notes => c:\src\engineering-notes
 
 go 1.18
 
-require github.com/alain-bouchard-quality/engineering-notes v0.0.0-20220518202018-bd023ee889d6 // indirect
+require (
+	github.com/AlainBouchard/engineering-notes v0.0.0-20220520145650-ec94fbb7b7cd // indirect
+)

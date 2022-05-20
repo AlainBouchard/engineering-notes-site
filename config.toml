@@ -9,7 +9,7 @@ theme = "hugo-theme-relearn"
 [module]
 
   [[module.imports]]
-    path = "github.com/alain-bouchard-quality/engineering-notes"
+    path = "github.com/AlainBouchard/engineering-notes"
 
     [[module.imports.mounts]]
       source = "content"
