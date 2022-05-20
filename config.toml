@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Alain Bouchard's Engineering Notes"
 theme = "hugo-theme-relearn"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [outputs]
     home = [ "HTML", "RSS", "JSON"]
 
