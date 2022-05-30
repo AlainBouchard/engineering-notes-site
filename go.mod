@@ -1,6 +1,6 @@
 module engineering-notes-site
 
-replace github.com/AlainBouchard/engineering-notes => c:\src\engineering-notes
+// replace github.com/AlainBouchard/engineering-notes => c:\src\engineering-notes
 
 go 1.18
 
