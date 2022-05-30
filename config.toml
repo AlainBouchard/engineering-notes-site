@@ -17,3 +17,6 @@ theme = "hugo-theme-relearn"
     [[module.imports.mounts]]
       source = "content"
       target = "content"
+
+[params]
+  themeVariant = "blue"
