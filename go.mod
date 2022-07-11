@@ -4,4 +4,4 @@ module engineering-notes-site
 
 go 1.18
 
-require github.com/AlainBouchard/engineering-notes v0.0.0-20220530165559-5de71421b29e // indirect
+require github.com/AlainBouchard/engineering-notes v0.0.0-20220711173902-4cff14581394 // indirect

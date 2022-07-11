@@ -1,6 +1,4 @@
-github.com/AlainBouchard/engineering-notes v0.0.0-20220520203016-9aaa02e19873 h1:vu1soDsWuMx9GmZjAYVlaaTFsR8mvlt0ejzS6YhyNVU=
-github.com/AlainBouchard/engineering-notes v0.0.0-20220520203016-9aaa02e19873/go.mod h1:D93+tDbgpGnIquOCRAYOU74qKALZVjZ4/7wYjzcF9ys=
-github.com/AlainBouchard/engineering-notes v0.0.0-20220530163616-5e785ae0de46 h1:cxO4PvUwVnKqNmG7bDVnYfgHON0qpj/CcszB3d1VYcw=
-github.com/AlainBouchard/engineering-notes v0.0.0-20220530163616-5e785ae0de46/go.mod h1:D93+tDbgpGnIquOCRAYOU74qKALZVjZ4/7wYjzcF9ys=
-github.com/AlainBouchard/engineering-notes v0.0.0-20220530165559-5de71421b29e h1:ii105+dCSRINpCpCyHod9LaHP67Jmzto6sogQCTh46k=
-github.com/AlainBouchard/engineering-notes v0.0.0-20220530165559-5de71421b29e/go.mod h1:D93+tDbgpGnIquOCRAYOU74qKALZVjZ4/7wYjzcF9ys=
+github.com/AlainBouchard/engineering-notes v0.0.0-20220711173510-6c3cb4b5525e h1:nBGUJ3H+2Xf9uT6RI8iN+5Lw/Ih/vf8lb5ySMf/Nozw=
+github.com/AlainBouchard/engineering-notes v0.0.0-20220711173510-6c3cb4b5525e/go.mod h1:D93+tDbgpGnIquOCRAYOU74qKALZVjZ4/7wYjzcF9ys=
+github.com/AlainBouchard/engineering-notes v0.0.0-20220711173902-4cff14581394 h1:MGFK7qPhBbpauohaGuKn1rfAXJrmSj+yfv6bSLBHRNw=
+github.com/AlainBouchard/engineering-notes v0.0.0-20220711173902-4cff14581394/go.mod h1:D93+tDbgpGnIquOCRAYOU74qKALZVjZ4/7wYjzcF9ys=
