@@ -1,7 +1,5 @@
-module engineering-notes-site
+module github.com/AlainBouchard/engineering-notes-site
 
-// replace github.com/AlainBouchard/engineering-notes => c:\src\engineering-notes
+go 1.23.2
 
-go 1.18
-
-require github.com/AlainBouchard/engineering-notes v0.0.0-20220719155213-3db8a805b9df // indirect
+require github.com/AlainBouchard/engineering-notes v0.0.0-20241119010412-ae8b4e8ce40f // indirect
